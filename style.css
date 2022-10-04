@@ -1,0 +1,51 @@
+body{
+  background: rgb(33,37,62);
+  background: radial-gradient(circle, rgba(33,37,62,1) 28%, rgba(0,0,0,1) 100%);
+  margin-top: 20px !important;
+  text-align: center !important;
+}
+
+.caç{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: white;
+}
+img{
+  max-width: 250px;
+  border-style: inset;
+  border-color: #ffffff;
+  border-radius: 50%;
+}
+a{
+  text-decoration: none !important;
+  font-size: 20px;
+  color: whitesmoke !important;
+}
+section{
+  background-color: #000000;
+  border-radius: 10px;
+  max-width: 300px;
+  margin: auto;
+  padding: 15px;
+}
+.end{
+  border: 1px solid rgb(255, 255, 255);
+  padding: 15px;
+  margin: 40px 40px 40px 40px;
+}
+.pap{
+  font-style: italic;
+  text-align: center;
+  color: white;
+  font-size: large;
+}
+.para{
+  text-indent: 45px;
+  text-align:left;
+  letter-spacing: 3px;
+  text-decoration: none;
+  color: #ecf0f2;
+}
+.list{
+  color: white;
+}
+
